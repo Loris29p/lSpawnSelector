@@ -38,4 +38,7 @@ BOUTIQUE.Config = {
             position = vector4(1784.0, 3646.0, 34.0, 300.0),
         }
     },
+    translate = {
+        selectSpawn = 'Apparaître ici'
+    }
 }
